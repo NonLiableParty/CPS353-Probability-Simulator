@@ -1,0 +1,11 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\anase\\OneDrive\\Documents\\GitHub\\New folder\\CPS353-Probability-Simulator\\Source\\DIceRoll\\DIceRoll.Build.cs",
+		"C:\\Users\\anase\\OneDrive\\Documents\\GitHub\\New folder\\CPS353-Probability-Simulator\\Source\\ProbabilitySimulator\\ProbabilitySimulator.Build.cs",
+		"C:\\Users\\anase\\OneDrive\\Documents\\GitHub\\New folder\\CPS353-Probability-Simulator\\Source\\DIceRoll.Target.cs",
+		"C:\\Users\\anase\\OneDrive\\Documents\\GitHub\\New folder\\CPS353-Probability-Simulator\\Source\\DIceRollEditor.Target.cs",
+		"C:\\Users\\anase\\OneDrive\\Documents\\GitHub\\New folder\\CPS353-Probability-Simulator\\Source\\ProbabilitySimulator.Target.cs",
+		"C:\\Users\\anase\\OneDrive\\Documents\\GitHub\\New folder\\CPS353-Probability-Simulator\\Source\\ProbabilitySimulatorEditor.Target.cs"
+	],
+	"EngineVersion": "4.25.3"
+}

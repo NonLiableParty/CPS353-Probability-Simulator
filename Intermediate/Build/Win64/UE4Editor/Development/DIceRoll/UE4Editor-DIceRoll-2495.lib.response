@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-DIceRoll-2495.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\anase\OneDrive\Documents\GitHub\New folder\CPS353-Probability-Simulator\Intermediate\Build\Win64\DIceRollEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\anase\OneDrive\Documents\GitHub\New folder\CPS353-Probability-Simulator\Intermediate\Build\Win64\UE4Editor\Development\DIceRoll\DIceRoll.cpp.obj"
+"C:\Users\anase\OneDrive\Documents\GitHub\New folder\CPS353-Probability-Simulator\Intermediate\Build\Win64\UE4Editor\Development\DIceRoll\DIceRollGameModeBase.cpp.obj"
+"C:\Users\anase\OneDrive\Documents\GitHub\New folder\CPS353-Probability-Simulator\Intermediate\Build\Win64\UE4Editor\Development\DIceRoll\DIceRoll.init.gen.cpp.obj"
+"C:\Users\anase\OneDrive\Documents\GitHub\New folder\CPS353-Probability-Simulator\Intermediate\Build\Win64\UE4Editor\Development\DIceRoll\DIceRollGameModeBase.gen.cpp.obj"
+"C:\Users\anase\OneDrive\Documents\GitHub\New folder\CPS353-Probability-Simulator\Intermediate\Build\Win64\UE4Editor\Development\DIceRoll\Default.rc2.res"
+/OUT:"C:\Users\anase\OneDrive\Documents\GitHub\New folder\CPS353-Probability-Simulator\Intermediate\Build\Win64\UE4Editor\Development\DIceRoll\UE4Editor-DIceRoll-2495.lib"
+/INCLUDE:IMPLEMENT_MODULE_DIceRoll
