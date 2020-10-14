@@ -1,0 +1,9 @@
+# Visual Studio user specific files
+.vs/
+
+# Visual Studio database file
+*.VC.db
+
+# Compiled Object files
+*.slo
+*.lo
