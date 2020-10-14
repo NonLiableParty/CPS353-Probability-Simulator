@@ -1,0 +1,21 @@
+﻿  Using 'git status' to determine working set for adaptive non-unity build (C:\Users\anase\OneDrive\Documents\GitHub\New folder\CPS353-Probability-Simulator).
+  Creating makefile for DIceRollEditor (no existing makefile)
+  Parsing headers for DIceRollEditor
+    Running UnrealHeaderTool "C:\Users\anase\OneDrive\Documents\GitHub\New folder\CPS353-Probability-Simulator\DIceRoll.uproject" "C:\Users\anase\OneDrive\Documents\GitHub\New folder\CPS353-Probability-Simulator\Intermediate\Build\Win64\DIceRollEditor\Development\DIceRollEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\anase\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+  Reflection code generated for DIceRollEditor in 5.8787977 seconds
+  Building DIceRollEditor...
+  Using Visual Studio 2019 14.27.29112 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 9 actions with 8 processes...
+    [1/9] Default.rc2
+    [2/9] SharedPCH.Engine.ShadowErrors.cpp
+    [3/9] DIceRoll.cpp
+    [4/9] DIceRollGameModeBase.cpp
+    [5/9] DIceRoll.init.gen.cpp
+    [6/9] DIceRollGameModeBase.gen.cpp
+    [7/9] UE4Editor-DIceRoll.lib
+       Creating library C:\Users\anase\OneDrive\Documents\GitHub\New folder\CPS353-Probability-Simulator\Intermediate\Build\Win64\UE4Editor\Development\DIceRoll\UE4Editor-DIceRoll.lib and object C:\Users\anase\OneDrive\Documents\GitHub\New folder\CPS353-Probability-Simulator\Intermediate\Build\Win64\UE4Editor\Development\DIceRoll\UE4Editor-DIceRoll.exp
+    [8/9] UE4Editor-DIceRoll.dll
+       Creating library C:\Users\anase\OneDrive\Documents\GitHub\New folder\CPS353-Probability-Simulator\Intermediate\Build\Win64\UE4Editor\Development\DIceRoll\UE4Editor-DIceRoll.suppressed.lib and object C:\Users\anase\OneDrive\Documents\GitHub\New folder\CPS353-Probability-Simulator\Intermediate\Build\Win64\UE4Editor\Development\DIceRoll\UE4Editor-DIceRoll.suppressed.exp
+    [9/9] DIceRollEditor.target
+  Total time in Parallel executor: 27.57 seconds
+  Total execution time: 51.76 seconds

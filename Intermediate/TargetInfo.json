@@ -1,0 +1,24 @@
+{
+	"Targets": [
+		{
+			"Name": "DIceRoll",
+			"Path": "C:\\Users\\anase\\OneDrive\\Documents\\GitHub\\New folder\\CPS353-Probability-Simulator\\Source\\DIceRoll.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "DIceRollEditor",
+			"Path": "C:\\Users\\anase\\OneDrive\\Documents\\GitHub\\New folder\\CPS353-Probability-Simulator\\Source\\DIceRollEditor.Target.cs",
+			"Type": "Editor"
+		},
+		{
+			"Name": "ProbabilitySimulator",
+			"Path": "C:\\Users\\anase\\OneDrive\\Documents\\GitHub\\New folder\\CPS353-Probability-Simulator\\Source\\ProbabilitySimulator.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ProbabilitySimulatorEditor",
+			"Path": "C:\\Users\\anase\\OneDrive\\Documents\\GitHub\\New folder\\CPS353-Probability-Simulator\\Source\\ProbabilitySimulatorEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\DIceRoll.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{C7587656-D83C-4AC7-AA9C-5F14E976AA0E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\DIceRoll.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\DIceRollEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\README.md" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{96506BE6-DF88-4AFD-AA6B-FDE3C1B027ED}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\DIceRoll">
+      <UniqueIdentifier>{0F925EB8-6563-4266-A549-7BB2627303E0}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\DIceRoll\DIceRoll.Build.cs">
+      <Filter>Source\DIceRoll</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\DIceRoll\DIceRoll.cpp">
+      <Filter>Source\DIceRoll</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DIceRoll\DIceRoll.h">
+      <Filter>Source\DIceRoll</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\DIceRoll\DIceRollGameModeBase.cpp">
+      <Filter>Source\DIceRoll</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DIceRoll\DIceRollGameModeBase.h">
+      <Filter>Source\DIceRoll</Filter>
+    </ClInclude>
+    <Filter Include="Source\ProbabilitySimulator">
+      <UniqueIdentifier>{C0E3425C-D5F6-49B3-BF6D-9D53A8775352}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ProbabilitySimulator\ProbabilitySimulator.Build.cs">
+      <Filter>Source\ProbabilitySimulator</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\ProbabilitySimulator\ProbabilitySimulator.cpp">
+      <Filter>Source\ProbabilitySimulator</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ProbabilitySimulator\ProbabilitySimulator.h">
+      <Filter>Source\ProbabilitySimulator</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ProbabilitySimulator\ProbabilitySimulatorGameModeBase.cpp">
+      <Filter>Source\ProbabilitySimulator</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ProbabilitySimulator\ProbabilitySimulatorGameModeBase.h">
+      <Filter>Source\ProbabilitySimulator</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
